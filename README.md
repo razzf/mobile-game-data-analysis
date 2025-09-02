@@ -35,7 +35,7 @@ To set up this project locally, please follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TuringCollegeSubmissions/jwerne-DS.v3.2.2.5.git
+   git clone https://github.com/razzf/mobile-game-data-analysis
    ```
 2. **Navigate to the project directory**:
    ```bash
