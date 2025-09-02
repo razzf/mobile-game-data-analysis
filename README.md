@@ -39,7 +39,7 @@ To set up this project locally, please follow these steps:
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd jwerne-DS.v3.2.2.5
+   cd mobile-game-data-analysis
    ```
 3. **Install the required packages**:
    Make sure you have Python installed. Install the packages listed in the `requirements.txt` file using:
